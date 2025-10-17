@@ -23,3 +23,8 @@ As an esp 32 would power this whole thing, this would be much more powerful mcu,
 
 # Description of Project 
 The project is based on this following research. The following document has all the requirements and safety feature description: https://docs.google.com/document/d/12Az-Lkp3-ZaH_W2DnesjL1Jfv3u9_doN4sM7y4v4LQA/edit?usp=sharing
+
+
+# Feature from previous project
+
+IDK I am gonna add everything to it lolol
