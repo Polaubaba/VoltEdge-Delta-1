@@ -13,10 +13,9 @@ email : anwaradib24@gmail.com  or visit https://linktr.ee/polauda
 
 
 
-
 # Display System 
 
-The following Device would show and display vital information about the powerbank, such as showing the battery parcent.
+The following Device would show and display vital information about the powerbank, such as showing the battery parcent. 
 
 # Wi-Fi based in depth information and much more
 As an esp 32 would power this whole thing, this would be much more powerful mcu, so it can do a lot of things.
@@ -28,15 +27,27 @@ The project is based on this following research. The following document has all 
 # Battery Cell Choices
 I have take 18650 batteries of 2600mAh. Also I am currently testing a 10,000mAh Battery 
 
-# Battery Parcentage Dillema
+# Battery Parcentage Dillema 🔋
 ![BatteryPercentDillema](firstchargingsupportedCircuitboard.jpg)
-# Feature from previous project
+
+# Feature from previous project 🔑🔐
 
 IDK I am gonna add everything to it lolol 
-
 I have decided to add BLE Keyboard functionality on my project
 
 ![BLE Keyboard Bread Board type prototype](BetaCode2/IMG_0332.jpg)
-
 The following image is the working on breadboard codes for the project
 
+# Sensor Lists // Hardware list 🦎
+
+1. LDR ( Light Detecting Resistor )
+2. Motion (accelerometer) Sensor ( x-y-z axis)
+3. Buzzer
+4. Temp sensor (Thermo-resistor)
+5. Speaker
+6. Led Indicators
+7. NFC (Tag or chip) Probably also a reader Phone pairing with this ! ( NOT CONFIRMED ) ???????
+8. Battery Bank ( with Fast charging supported )
+9. Wi-Fi / BLE Bluetooth supported
+10. Display Module Oled Display
+11. 12v output for some reason idk
