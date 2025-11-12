@@ -36,7 +36,7 @@ IDK I am gonna add everything to it lolol
 
 I have decided to add BLE Keyboard functionality on my project
 
-![BLE Keyboard Bread Board type prototype](VoltEdge-Delta-1/BetaCode2/IMG_0332.jpg)
+![BLE Keyboard Bread Board type prototype](BetaCode2/IMG_0332.jpg)
 
 The following image is the working on breadboard codes for the project
 
