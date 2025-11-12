@@ -29,7 +29,7 @@ The project is based on this following research. The following document has all 
 I have take 18650 batteries of 2600mAh. Also I am currently testing a 10,000mAh Battery 
 
 # Battery Parcentage Dillema
-
+![BatteryPercentDillema](firstchargingsupportedCircuitboard.jpg)
 # Feature from previous project
 
 IDK I am gonna add everything to it lolol 
