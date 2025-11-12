@@ -32,4 +32,11 @@ I have take 18650 batteries of 2600mAh. Also I am currently testing a 10,000mAh 
 
 # Feature from previous project
 
-IDK I am gonna add everything to it lolol
+IDK I am gonna add everything to it lolol 
+
+I have decided to add BLE Keyboard functionality on my project
+
+![BLE Keyboard Bread Board type prototype](VoltEdge-Delta-1/BetaCode2/IMG_0332.jpg)
+
+The following image is the working on breadboard codes for the project
+
