@@ -25,7 +25,7 @@ The project is based on this following research. The following document has all 
 
 
 # Battery Cell Choices
-I have take 18650 batteries of 2600mAh. Also I am currently testing a 10,000mAh Battery 
+I took 18650 dimensions 4 batteries of 2600mAh. Also I am currently testing a 10,000mAh Li-Po Battery. If we head into slimmer solutions, we might get into lithium silicon batteries 😝 Cause WHY NOT !
 
 # Battery Parcentage Dillema 🔋
 ![BatteryPercentDillema](firstchargingsupportedCircuitboard.jpg)
